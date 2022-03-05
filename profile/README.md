@@ -1,2 +1,1 @@
-# spotorg
-spotorg profile
+![alt text](/resources/header.png)
