@@ -1,2 +1,0 @@
-# spotorg
-spotorg profile
