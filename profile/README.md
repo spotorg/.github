@@ -1,5 +1,3 @@
-![alt text](/resources/header.png)
-
 # e-commerce platform development
 
 ## We create e-commerce platforms starting from 500$
